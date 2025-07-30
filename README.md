@@ -11,6 +11,7 @@ Understand the impact of discounts on profitability.
 Recommend bundling and strategy insights.
 
 📌 Key Insights
+
 Paseo is the highest-selling and most profitable product.
 
 USA, Mexico, and France lead in overall revenue.
