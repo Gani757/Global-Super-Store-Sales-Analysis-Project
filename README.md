@@ -2,6 +2,7 @@
 A data analytics project to explore, clean, and visualize retail sales data from a global superstore. The goal is to uncover patterns in sales, profit, discounts, and product performance across countries and customer segments.
 
 ✅ Key Objectives
+
 Analyze product-wise, segment-wise, and country-wise sales & profit.
 
 Visualize monthly trends and identify peak periods.
