@@ -11,6 +11,8 @@ Key Objectives
 -- Understand the impact of discounts on profitability
 -- Recommend bundling and strategic business insights
 
+-----------------------
+
 Key Insights
 
 -- Paseo is the highest-selling and most profitable product
@@ -19,12 +21,18 @@ Key Insights
 -- High discounts negatively impact profit margins
 -- Products like Montana and Velo can be bundled with Paseo to increase overall sales
 
+-----------------------
+
 Tools & Libraries
 
 -- Python
 -- Pandas, NumPy
 -- Matplotlib, Seaborn
 -- Jupyter Notebook
+
+-----------------------
+
+
 
 Project Structure
 Global_Super_Store_Sales_Analysis/
@@ -37,10 +45,14 @@ Global_Super_Store_Sales_Analysis/
 └── data/
     └── GlobalSuperStore.csv
     
+-----------------------
+    
 Dataset
 
 Sample dataset containing sales, profit, discounts, country, segment, product, and order dates.
 Ideal for sales trend analysis, KPI tracking, and segment performance.
+
+-----------------------
 
 What I Learned
 
