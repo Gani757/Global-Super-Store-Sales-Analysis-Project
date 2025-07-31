@@ -1,66 +1,37 @@
-Global Super Store Sales Analysis
+# Warehouse & Retail Sales Analysis
 
-A data analytics project to explore, clean, and visualize retail sales data from a global superstore. The goal is to uncover patterns in sales, profit, discounts, and product performance across countries and customer segments.
+A data analytics project focused on exploring, cleaning, and visualizing retail and warehouse sales data. The goal is to uncover trends in product performance, monthly sales patterns, and differences between warehouse and retail channels.
 
------------------------
+---
 
-Key Objectives
+##  Key Objectives
 
--- Analyze product-wise, segment-wise, and country-wise sales and profit
--- Visualize monthly trends and identify peak periods
--- Understand the impact of discounts on profitability
--- Recommend bundling and strategic business insights
+-- Analyze item-wise sales trends across warehouse and retail channels  
+-- Visualize monthly and yearly patterns to identify high-performing periods  
+-- Handle data quality issues like outliers and skewed distributions  
+-- Recommend data-driven strategies for better inventory and sales planning  
 
------------------------
+---
 
-Key Insights
+##  Key Insights
 
--- Paseo is the highest-selling and most profitable product
--- USA, Mexico, and France lead in overall revenue
--- Government segment contributes the most to profits in all regions
--- High discounts negatively impact profit margins
--- Products like Montana and Velo can be bundled with Paseo to increase overall sales
+-- Certain item types consistently perform better in both retail and warehouse channels  
+-- Retail sales peak mid-year, while warehouse sales are more consistent  
+-- Log transformation helped in normalizing highly skewed sales data  
+-- Zero or negative sales rows were removed for better trend analysis  
+-- Some items show high warehouse sales but low transfers, suggesting stockpile opportunities  
 
------------------------
+---
 
-Tools & Libraries
+##  Tools & Libraries
 
--- Python
--- Pandas, NumPy
--- Matplotlib, Seaborn
--- Jupyter Notebook
+-- Python  
+-- Pandas, NumPy  
+-- Matplotlib, Seaborn  
+-- Jupyter Notebook  
+-- Excel (for initial inspection)  
 
------------------------
+---
 
-
-
-Project Structure
-Global_Super_Store_Sales_Analysis/
-├── Global Super Store Sales Data Analysis.ipynb
-├── Visualizations/
-│   ├── monthly_trends.png
-│   ├── product_profit.png
-│   └── country_segment_sales.png
-├── README.md
-└── data/
-    └── GlobalSuperStore.csv
-    
------------------------
-    
-Dataset
-
-Sample dataset containing sales, profit, discounts, country, segment, product, and order dates.
-Ideal for sales trend analysis, KPI tracking, and segment performance.
-
------------------------
-
-What I Learned
-
--- Creating time-based trends and KPIs
--- Handling skewness, outliers, and cleaning real-world data
--- Drawing actionable business insights from data
-
-Let's Connect
-
-Feel free to connect with me on LinkedIn or reach out with feedback or collaboration ideas.
+## 📁 Project Structure
 
